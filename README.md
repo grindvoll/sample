@@ -3,4 +3,4 @@ sample
 
 For testing only.
 
-I added some text here.
+I corrected some text here.
